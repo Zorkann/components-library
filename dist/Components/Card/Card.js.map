@@ -1,0 +1,1 @@
+{"version":3,"file":"Card.js","sources":["../../../src/Components/Card/Card.tsx"],"sourcesContent":[null],"names":["Card","props","React","createElement","className","css","test_card","text"],"mappings":"kDAOA,MAAMA,EAAQC,GACLC,EAAKC,cAAA,MAAA,CAAAC,UAAWC,EAAIC,oBAAkBL,EAAMM"}

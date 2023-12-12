@@ -1,0 +1,1 @@
+{"version":3,"file":"Button.js","sources":["../../../src/Components/Button/Button.tsx"],"sourcesContent":[null],"names":["Button","props","state","setState","useState","React","createElement","className","css","test_button","label"],"mappings":"mEAOA,MAAMA,EAAUC,IACd,MAAOC,EAAOC,GAAYC,EAAS,IACnC,OACEC,EAAQC,cAAA,SAAA,CAAAC,UAAWC,EAAIC,aACpBR,EAAMS,MACNR"}
